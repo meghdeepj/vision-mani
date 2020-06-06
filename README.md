@@ -1,2 +1,2 @@
 # vision-mani
-Hanyang Univ. Summer project - Vision Based Pick and Place Manipulator Arm
+Hanyang Univ. Summer project - Computer Vision Based Pick and Place Manipulator Arm
